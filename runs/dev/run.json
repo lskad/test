@@ -1,0 +1,13 @@
+{
+  "seed": 20261120,
+  "split": "dev",
+  "python": "3.12.3",
+  "source_sha256": {
+    "experiment.py": "66679c53684179fe62bce76ca6305fa889397811ad4621f50a540006d66a22e6",
+    "src\\__init__.py": "34c94e3db18113da0aeb678a60bd9472708316fc888136945b5426d4084c9bcb",
+    "src\\analysis.py": "24ac53fecb54a3312a8c0277cf7f640e97e9396661748009202d7fc86f12ca8c",
+    "src\\core.py": "03e98ecedc227efb36207ac7b54381d4a3c2017412ef229b333fdf42d88be156",
+    "src\\online.py": "76d61138ed0baf761567708b9a980ca381c2c783882cfaad0d5d5a73a6164f22"
+  },
+  "base_tasks": 6
+}

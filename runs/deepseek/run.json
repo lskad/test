@@ -1,0 +1,14 @@
+{
+  "seed": 20261120,
+  "split": "test",
+  "python": "3.12.3",
+  "source_sha256": {
+    "experiment.py": "531255f3b6573289ba7919e728543614557cc1cf925f085cfafae3aa1482882b",
+    "src\\__init__.py": "34c94e3db18113da0aeb678a60bd9472708316fc888136945b5426d4084c9bcb",
+    "src\\analysis.py": "24ac53fecb54a3312a8c0277cf7f640e97e9396661748009202d7fc86f12ca8c",
+    "src\\core.py": "03e98ecedc227efb36207ac7b54381d4a3c2017412ef229b333fdf42d88be156",
+    "src\\deepseek_auth.py": "2e4867a5bcfce0bdcf4eef7d2834d2734451da81d4a179ae7f659a3da2b4b8cc",
+    "src\\online.py": "deb65a9225b752a3847e6e7afbe481ba49d8d0449c30fc9ff874c4dca6026f0d"
+  },
+  "base_tasks": 24
+}

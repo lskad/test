@@ -1,0 +1,13 @@
+﻿task,fault,prefix_status,outcome,queries,eligible
+A-2025-04,F0,qualified,success,1,False
+A-2025-04,F2,qualified,success,2,False
+A-2025-04,F3,qualified,success,2,False
+B-2025-10,F0,exhausted,not_run,,False
+B-2025-10,F2,exhausted,not_run,,False
+B-2025-10,F3,exhausted,not_run,,False
+C-2025-03,F0,qualified,success,1,False
+C-2025-03,F2,qualified,success,2,False
+C-2025-03,F3,qualified,success,2,False
+A-2025-09,F0,qualified,success,1,False
+A-2025-09,F2,qualified,success,2,False
+A-2025-09,F3,qualified,success,2,False

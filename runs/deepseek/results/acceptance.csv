@@ -1,0 +1,9 @@
+﻿collision,actual_query,checker,n,passed,failed,false_accept,false_reject
+False,correct,numeric,18,18,0,0,0
+False,correct,evidence,18,18,0,0,0
+False,wrong,numeric,36,0,36,0,0
+False,wrong,evidence,36,0,36,0,0
+True,correct,numeric,6,6,0,0,0
+True,correct,evidence,6,6,0,0,0
+True,wrong,numeric,12,12,0,12,0
+True,wrong,evidence,12,0,12,0,0

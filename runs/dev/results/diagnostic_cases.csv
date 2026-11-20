@@ -1,0 +1,55 @@
+﻿method,id,task_id,run_id,view,fault,label,outcome,grounded_hit,evidence
+规则,5d450a2c914e7ade04b0dd4b,C-2025-05,1719d42e8558ce2fcef387f8,V1,F2,UNKNOWN,abstained,False,{}
+规则,3ea40a8c1ce6273ba7b0eb97,A-2025-05,89ad9a6450ebd8d8b9a45a2e,V2,F0,OK,correct,True,"{""db_month"": ""2025-05"", ""intent_month"": ""2025-05"", ""out_month"": ""2025-05""}"
+规则,cc91bdbbcce5cfd09d71562e,B-2025-11,666a2ed3e0fa057e748a8e1b,V0,F2,UNKNOWN,abstained,False,{}
+规则,01e1af122dce7c5389466742,A-2025-05,621a05616f294d5fe9300763,V1,F2,UNKNOWN,abstained,False,{}
+规则,1bcdfb0a88fb4bd9c5e7fafb,B-2025-11,064a3346b1342443c16722d5,V2,F3,S3,correct,True,"{""db_month"": ""2025-10"", ""intent_month"": ""2025-11"", ""out_month"": ""2025-11""}"
+规则,257c4d73448e6c3dd8f29ac8,A-2025-11,e76fa5318ef1387959efd7ee,V2,F2,S2,correct,True,"{""db_month"": ""2025-10"", ""intent_month"": ""2025-11"", ""out_month"": ""2025-10""}"
+规则,9c4d901e2c562cac372510b2,C-2025-11,d07d6f677fdcbc879947c215,V2,F3,S3,correct,True,"{""db_month"": ""2025-10"", ""intent_month"": ""2025-11"", ""out_month"": ""2025-11""}"
+规则,853f234d8a88504f3fe4e5e3,A-2025-11,3738bd67fbeb175c83e68331,V0,F0,UNKNOWN,abstained,False,{}
+规则,c3411ac92803065e56026913,A-2025-11,d51c2161f5c6687170b37415,V0,F3,UNKNOWN,abstained,False,{}
+规则,064869c9ed8f121325c06780,B-2025-11,666a2ed3e0fa057e748a8e1b,V2,F2,S2,correct,True,"{""db_month"": ""2025-10"", ""intent_month"": ""2025-11"", ""out_month"": ""2025-10""}"
+规则,050a1aa0d23f01f05b1fb7f9,C-2025-05,0595e0d8aa1ef6c6e20a4883,V2,F0,OK,correct,True,"{""db_month"": ""2025-05"", ""intent_month"": ""2025-05"", ""out_month"": ""2025-05""}"
+规则,177ecc4cabca7af2fdd7550f,C-2025-05,47b337d6f4f68a70ec0dcaaa,V2,F3,S3,correct,True,"{""db_month"": ""2025-04"", ""intent_month"": ""2025-05"", ""out_month"": ""2025-05""}"
+规则,636f3d321ea11816635415a4,A-2025-11,d51c2161f5c6687170b37415,V1,F3,UNKNOWN,abstained,False,{}
+规则,21ad00af5235abe9bd513821,C-2025-05,47b337d6f4f68a70ec0dcaaa,V1,F3,UNKNOWN,abstained,False,{}
+规则,8174dc49594d8ccaec4f0584,C-2025-11,d07d6f677fdcbc879947c215,V1,F3,UNKNOWN,abstained,False,{}
+规则,d2629d9445bdf311beb8b6ee,B-2025-11,666a2ed3e0fa057e748a8e1b,V1,F2,UNKNOWN,abstained,False,{}
+规则,fbbdfdca57bc494fa6bfe293,A-2025-05,6cff8a28ff0ac33e2c6fee55,V1,F3,UNKNOWN,abstained,False,{}
+规则,052918ec9dd503d6d980ce20,A-2025-11,d51c2161f5c6687170b37415,V2,F3,S3,correct,True,"{""db_month"": ""2025-10"", ""intent_month"": ""2025-11"", ""out_month"": ""2025-11""}"
+规则,fb2112682c32728ea472f223,A-2025-05,89ad9a6450ebd8d8b9a45a2e,V0,F0,UNKNOWN,abstained,False,{}
+规则,c4778628b4237f77fcf989d0,B-2025-05,449c498e19667007df96f15c,V2,F0,OK,correct,True,"{""db_month"": ""2025-05"", ""intent_month"": ""2025-05"", ""out_month"": ""2025-05""}"
+规则,f525a66d2abcabc55167229b,C-2025-05,0595e0d8aa1ef6c6e20a4883,V0,F0,UNKNOWN,abstained,False,{}
+规则,c9804b716f8215892e2c8de6,C-2025-11,023843ccf7e24274c83fbc5a,V2,F2,S2,correct,True,"{""db_month"": ""2025-10"", ""intent_month"": ""2025-11"", ""out_month"": ""2025-10""}"
+规则,cbfc8c7b9a95c2b0bd4741aa,B-2025-11,064a3346b1342443c16722d5,V1,F3,UNKNOWN,abstained,False,{}
+规则,505b29b125d122a58d13e211,C-2025-05,47b337d6f4f68a70ec0dcaaa,V0,F3,UNKNOWN,abstained,False,{}
+规则,71a013e330db6374974e535f,A-2025-11,e76fa5318ef1387959efd7ee,V0,F2,UNKNOWN,abstained,False,{}
+规则,c1fa9d324926d84a3aa74d81,B-2025-05,7e455d4557455bfd8cbd347a,V1,F3,UNKNOWN,abstained,False,{}
+规则,4bb5a926e5ee0d6be4d3d464,C-2025-11,023843ccf7e24274c83fbc5a,V1,F2,UNKNOWN,abstained,False,{}
+规则,44669525f969cf50ec2e99cf,A-2025-11,3738bd67fbeb175c83e68331,V2,F0,OK,correct,True,"{""db_month"": ""2025-11"", ""intent_month"": ""2025-11"", ""out_month"": ""2025-11""}"
+规则,d0572bbb746c96770bb01829,B-2025-05,11330221f6ad2d13a5f561ab,V1,F2,UNKNOWN,abstained,False,{}
+规则,98380463ed81f657a6961d31,A-2025-05,621a05616f294d5fe9300763,V0,F2,UNKNOWN,abstained,False,{}
+规则,0051851a1d30b8ccd84b9748,A-2025-05,89ad9a6450ebd8d8b9a45a2e,V1,F0,UNKNOWN,abstained,False,{}
+规则,b80db60ba5e9b540641049da,C-2025-11,d07d6f677fdcbc879947c215,V0,F3,UNKNOWN,abstained,False,{}
+规则,ad6d58700d3ad7c00cd130ff,A-2025-05,621a05616f294d5fe9300763,V2,F2,S2,correct,True,"{""db_month"": ""2025-04"", ""intent_month"": ""2025-05"", ""out_month"": ""2025-04""}"
+规则,cb0b0762a534c176ec800373,C-2025-05,1719d42e8558ce2fcef387f8,V0,F2,UNKNOWN,abstained,False,{}
+规则,6066b7e6ec6ac543e0069d45,A-2025-11,3738bd67fbeb175c83e68331,V1,F0,UNKNOWN,abstained,False,{}
+规则,6790b0f1238e451e641b5d5c,B-2025-05,11330221f6ad2d13a5f561ab,V0,F2,UNKNOWN,abstained,False,{}
+规则,deb778dfb56e2c98759d0e57,B-2025-05,11330221f6ad2d13a5f561ab,V2,F2,S2,correct,True,"{""db_month"": ""2025-04"", ""intent_month"": ""2025-05"", ""out_month"": ""2025-04""}"
+规则,c1068b4337d9fe1b3d0b5186,B-2025-11,94bc618df689c21165bd1da5,V2,F0,OK,correct,True,"{""db_month"": ""2025-11"", ""intent_month"": ""2025-11"", ""out_month"": ""2025-11""}"
+规则,156e9466cb7ca630b7785a9f,C-2025-11,35908bb6dd3025d100e6d929,V2,F0,OK,correct,True,"{""db_month"": ""2025-11"", ""intent_month"": ""2025-11"", ""out_month"": ""2025-11""}"
+规则,64793c40e2ba0fd239cfd2e7,B-2025-05,449c498e19667007df96f15c,V1,F0,UNKNOWN,abstained,False,{}
+规则,4fec49e3be0038144d53a968,C-2025-05,1719d42e8558ce2fcef387f8,V2,F2,S2,correct,True,"{""db_month"": ""2025-04"", ""intent_month"": ""2025-05"", ""out_month"": ""2025-04""}"
+规则,05d3b906f357495f49de6f00,C-2025-11,023843ccf7e24274c83fbc5a,V0,F2,UNKNOWN,abstained,False,{}
+规则,407f8f0a8e27df448228bcd7,B-2025-11,94bc618df689c21165bd1da5,V0,F0,UNKNOWN,abstained,False,{}
+规则,cb8d01fed2c8825701d900d2,A-2025-05,6cff8a28ff0ac33e2c6fee55,V0,F3,UNKNOWN,abstained,False,{}
+规则,9c5fed5d3179438741097e0f,B-2025-05,7e455d4557455bfd8cbd347a,V2,F3,S3,correct,True,"{""db_month"": ""2025-04"", ""intent_month"": ""2025-05"", ""out_month"": ""2025-05""}"
+规则,f34e882e5c13e9459ebe38b4,A-2025-05,6cff8a28ff0ac33e2c6fee55,V2,F3,S3,correct,True,"{""db_month"": ""2025-04"", ""intent_month"": ""2025-05"", ""out_month"": ""2025-05""}"
+规则,b2d0676fa514f3b798a0b549,C-2025-11,35908bb6dd3025d100e6d929,V0,F0,UNKNOWN,abstained,False,{}
+规则,a4c4f2390ad0cfd61e0b0c09,A-2025-11,e76fa5318ef1387959efd7ee,V1,F2,UNKNOWN,abstained,False,{}
+规则,cd7dd40e047306009e3419c1,C-2025-11,35908bb6dd3025d100e6d929,V1,F0,UNKNOWN,abstained,False,{}
+规则,e5f417575adf901a1cce0ed7,B-2025-05,449c498e19667007df96f15c,V0,F0,UNKNOWN,abstained,False,{}
+规则,5dd78d31af9a783047cdf077,B-2025-05,7e455d4557455bfd8cbd347a,V0,F3,UNKNOWN,abstained,False,{}
+规则,7d77971b4306d7fb8dfa4744,B-2025-11,064a3346b1342443c16722d5,V0,F3,UNKNOWN,abstained,False,{}
+规则,f80d4cfd20043692bbe65dbf,C-2025-05,0595e0d8aa1ef6c6e20a4883,V1,F0,UNKNOWN,abstained,False,{}
+规则,5bc2e247d46c411e75015d74,B-2025-11,94bc618df689c21165bd1da5,V1,F0,UNKNOWN,abstained,False,{}

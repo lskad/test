@@ -1,0 +1,7 @@
+﻿method,view,subset,planned,correct,accuracy_pct,grounded_hits,wrong_step,wrong_clear,abstained,invalid,missing,decided,coverage_pct
+规则,V0,clean,24,0,0.0,0,0,0,24,0,0,0,0.0
+规则,V0,injected,48,0,0.0,0,0,0,48,0,0,0,0.0
+规则,V1,clean,24,0,0.0,0,0,0,24,0,0,0,0.0
+规则,V1,injected,48,0,0.0,0,0,0,48,0,0,0,0.0
+规则,V2,clean,24,24,100.0,24,0,0,0,0,0,24,100.0
+规则,V2,injected,48,48,100.0,48,0,0,0,0,0,48,100.0

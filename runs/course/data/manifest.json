@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "seed": 20261120,
+  "tasks": 30,
+  "observations": 6384,
+  "sha256": {
+    "observations.csv": "43935b1c057b1cfbe43bc6f94ce96aba57b5aca61bbfe6d12775f3eb1c8001f0",
+    "observations.sqlite3": "9a3b1fde042ff5d83e71f56557d508a4b799aaf7ec4bdf5e5ee891fbc2625e1d",
+    "tasks.json": "0a9489e7180758b599a61bdeeea1cdbbf04be3e55c9036e68f10c52aa5a204cd"
+  }
+}

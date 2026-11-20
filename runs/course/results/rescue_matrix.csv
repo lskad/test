@@ -1,0 +1,9 @@
+﻿fault,step,planned_pairs,complete_pairs,original_pass,replacement_pass,gain_pp,effective_pairs,replacement_stops
+F2,S1,24,24,0,0,0.0,0,0
+F2,S2,24,24,0,24,100.0,24,0
+F2,S3,24,24,0,24,100.0,24,0
+F2,S4,24,24,0,0,0.0,0,24
+F3,S1,24,24,0,0,0.0,0,0
+F3,S2,24,24,0,0,0.0,0,0
+F3,S3,24,24,0,24,100.0,24,0
+F3,S4,24,24,0,0,0.0,0,24

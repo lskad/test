@@ -1,0 +1,216 @@
+{"id": "27a0d8145c81c6707527ff87", "label": "UNKNOWN", "evidence": {}}
+{"id": "a7b57f99cd66c454adffacee", "label": "UNKNOWN", "evidence": {}}
+{"id": "45c7d08bfcd8316c9ade1860", "label": "S3", "evidence": {"intent_month": "2025-10", "out_month": "2025-10", "db_month": "2025-09"}}
+{"id": "c3a50d843eebc8ef7d9d875f", "label": "UNKNOWN", "evidence": {}}
+{"id": "c268f24ed90719105540327d", "label": "UNKNOWN", "evidence": {}}
+{"id": "b66d1ce9dd975f4acfe6b27b", "label": "UNKNOWN", "evidence": {}}
+{"id": "af93a2ffd764fbaf00d8a2af", "label": "UNKNOWN", "evidence": {}}
+{"id": "fbe27b93ff04c1d8fda89352", "label": "S3", "evidence": {"intent_month": "2025-09", "out_month": "2025-09", "db_month": "2025-08"}}
+{"id": "f0fe57e4585acd69f82efeee", "label": "OK", "evidence": {"intent_month": "2025-10", "out_month": "2025-10", "db_month": "2025-10"}}
+{"id": "27275338658ce349fdc44a68", "label": "UNKNOWN", "evidence": {}}
+{"id": "1ae6f810d57b0d59cd932b1e", "label": "UNKNOWN", "evidence": {}}
+{"id": "eb259bdd06922880d371e7b4", "label": "S2", "evidence": {"intent_month": "2025-04", "out_month": "2025-03", "db_month": "2025-03"}}
+{"id": "8ec95aa9a66957bb1e8ec359", "label": "S3", "evidence": {"intent_month": "2025-07", "out_month": "2025-07", "db_month": "2025-06"}}
+{"id": "7cad241f0bd3157e7798f777", "label": "UNKNOWN", "evidence": {}}
+{"id": "3c7c9e5419e03e7942ed3173", "label": "UNKNOWN", "evidence": {}}
+{"id": "a2e569e4c780e58c0796edea", "label": "S3", "evidence": {"intent_month": "2025-03", "out_month": "2025-03", "db_month": "2025-02"}}
+{"id": "a6275974d9215c784c99f3cd", "label": "OK", "evidence": {"intent_month": "2025-09", "out_month": "2025-09", "db_month": "2025-09"}}
+{"id": "3c20ca4c249e8a1fb55f4cf9", "label": "UNKNOWN", "evidence": {}}
+{"id": "10db593a76fe68d8f5e68a2e", "label": "S2", "evidence": {"intent_month": "2025-06", "out_month": "2025-05", "db_month": "2025-05"}}
+{"id": "4aa9abe20f2abe827c1ec076", "label": "UNKNOWN", "evidence": {}}
+{"id": "26baefd2a679604225c6c578", "label": "S3", "evidence": {"intent_month": "2025-04", "out_month": "2025-04", "db_month": "2025-03"}}
+{"id": "141a032d1f3dffb04517deed", "label": "S2", "evidence": {"intent_month": "2025-09", "out_month": "2025-08", "db_month": "2025-08"}}
+{"id": "9e7a49ada8c6c9a6cc8ab93c", "label": "UNKNOWN", "evidence": {}}
+{"id": "7255b8fefed37c8b5105c27f", "label": "UNKNOWN", "evidence": {}}
+{"id": "717dc6c64484b05028fdcf82", "label": "UNKNOWN", "evidence": {}}
+{"id": "f9ceff0833a2c61429847028", "label": "UNKNOWN", "evidence": {}}
+{"id": "dca4e9d7fd7913d1b4a8aaaa", "label": "UNKNOWN", "evidence": {}}
+{"id": "aed569d14def441b0ee7837a", "label": "UNKNOWN", "evidence": {}}
+{"id": "f2a4246e0eb70094b939478e", "label": "UNKNOWN", "evidence": {}}
+{"id": "e326ead8aefb5a378334d55e", "label": "UNKNOWN", "evidence": {}}
+{"id": "06da577bb0ec6d4b4c31bb55", "label": "UNKNOWN", "evidence": {}}
+{"id": "1c4ed4a1aea35004831eee71", "label": "UNKNOWN", "evidence": {}}
+{"id": "e6f114cc69ad78ab4e4931ea", "label": "UNKNOWN", "evidence": {}}
+{"id": "e09bc8819f2eca74dfb2caf5", "label": "OK", "evidence": {"intent_month": "2025-06", "out_month": "2025-06", "db_month": "2025-06"}}
+{"id": "5ffae7cc03a1c90885c24ee8", "label": "UNKNOWN", "evidence": {}}
+{"id": "980b1132a4b5981982d50524", "label": "S2", "evidence": {"intent_month": "2025-02", "out_month": "2025-01", "db_month": "2025-01"}}
+{"id": "38909ac8208a78859f49077f", "label": "UNKNOWN", "evidence": {}}
+{"id": "d213e0a14e84bd0adda05250", "label": "UNKNOWN", "evidence": {}}
+{"id": "0c65bc58acd1e86eb851fc3d", "label": "OK", "evidence": {"intent_month": "2025-02", "out_month": "2025-02", "db_month": "2025-02"}}
+{"id": "070282d1875d4ece06be868d", "label": "S2", "evidence": {"intent_month": "2025-03", "out_month": "2025-02", "db_month": "2025-02"}}
+{"id": "70817200bc9cf68bc96b1e6f", "label": "UNKNOWN", "evidence": {}}
+{"id": "a78750701091ef65e94b3be1", "label": "UNKNOWN", "evidence": {}}
+{"id": "bcf4b7dd43dbb07e9097eb2d", "label": "S2", "evidence": {"intent_month": "2025-02", "out_month": "2025-01", "db_month": "2025-01"}}
+{"id": "5c7bef7267a32dd3a27c16f1", "label": "S3", "evidence": {"intent_month": "2025-04", "out_month": "2025-04", "db_month": "2025-03"}}
+{"id": "828a229c0894977055518b06", "label": "UNKNOWN", "evidence": {}}
+{"id": "d0ddeb1a6c769976bd47a159", "label": "OK", "evidence": {"intent_month": "2025-10", "out_month": "2025-10", "db_month": "2025-10"}}
+{"id": "160a195bc2209f6614a11d5a", "label": "S3", "evidence": {"intent_month": "2025-07", "out_month": "2025-07", "db_month": "2025-06"}}
+{"id": "894bd7da73321af48f9e26cb", "label": "UNKNOWN", "evidence": {}}
+{"id": "fe03655339c52725563a9bbb", "label": "UNKNOWN", "evidence": {}}
+{"id": "535da7a3d817ba451ec77e60", "label": "UNKNOWN", "evidence": {}}
+{"id": "6bf70e2d4642c20d0614c12b", "label": "UNKNOWN", "evidence": {}}
+{"id": "6aef4e12932bfdcfc44ccac3", "label": "UNKNOWN", "evidence": {}}
+{"id": "76bc5d434772cc37b23db003", "label": "S2", "evidence": {"intent_month": "2025-08", "out_month": "2025-07", "db_month": "2025-07"}}
+{"id": "ff8aac8fea48f303837c4938", "label": "UNKNOWN", "evidence": {}}
+{"id": "ded7c98f69193221ea7e891e", "label": "UNKNOWN", "evidence": {}}
+{"id": "01297c734c1df88393d0d3d5", "label": "S2", "evidence": {"intent_month": "2025-04", "out_month": "2025-03", "db_month": "2025-03"}}
+{"id": "cfac69641f2c2ab210c4763b", "label": "UNKNOWN", "evidence": {}}
+{"id": "47a2bd2e427ab47c254e8ee7", "label": "UNKNOWN", "evidence": {}}
+{"id": "81e67e04618d72857295f271", "label": "OK", "evidence": {"intent_month": "2025-10", "out_month": "2025-10", "db_month": "2025-10"}}
+{"id": "a38bf52147bad1f68593ba46", "label": "UNKNOWN", "evidence": {}}
+{"id": "908a2a6bcab2edc524cb11af", "label": "UNKNOWN", "evidence": {}}
+{"id": "c9f0ec9fd96718fe8c475526", "label": "OK", "evidence": {"intent_month": "2025-02", "out_month": "2025-02", "db_month": "2025-02"}}
+{"id": "16939bcf79cacf74d74db238", "label": "UNKNOWN", "evidence": {}}
+{"id": "d25ccfaab68fa1c83c8e95dd", "label": "UNKNOWN", "evidence": {}}
+{"id": "01c34a5ccd1eaf0ad64a8362", "label": "S3", "evidence": {"intent_month": "2025-08", "out_month": "2025-08", "db_month": "2025-07"}}
+{"id": "65b65180ca8feb6c35267f5c", "label": "OK", "evidence": {"intent_month": "2025-08", "out_month": "2025-08", "db_month": "2025-08"}}
+{"id": "76069241efec0d0dceed8b52", "label": "UNKNOWN", "evidence": {}}
+{"id": "ef0bbfd51809b845e7bbd360", "label": "UNKNOWN", "evidence": {}}
+{"id": "4130cc8abddc7a277e91923f", "label": "UNKNOWN", "evidence": {}}
+{"id": "ad8c66b3ce7b9ef02989aa12", "label": "OK", "evidence": {"intent_month": "2025-09", "out_month": "2025-09", "db_month": "2025-09"}}
+{"id": "80cf4bdd43c7eb4fb517d155", "label": "OK", "evidence": {"intent_month": "2025-06", "out_month": "2025-06", "db_month": "2025-06"}}
+{"id": "af2bb800afbd9d1b08022cf7", "label": "S3", "evidence": {"intent_month": "2025-02", "out_month": "2025-02", "db_month": "2025-01"}}
+{"id": "db83dfc2a6a3122903cd5ed8", "label": "S3", "evidence": {"intent_month": "2025-06", "out_month": "2025-06", "db_month": "2025-05"}}
+{"id": "d97460d1afc10731fc52e186", "label": "UNKNOWN", "evidence": {}}
+{"id": "4df269dcab08988ff4f73157", "label": "S2", "evidence": {"intent_month": "2025-09", "out_month": "2025-08", "db_month": "2025-08"}}
+{"id": "38c84aa41b0b5d43643d146c", "label": "S2", "evidence": {"intent_month": "2025-03", "out_month": "2025-02", "db_month": "2025-02"}}
+{"id": "0baeb556a0a054816a02e3b4", "label": "UNKNOWN", "evidence": {}}
+{"id": "1ca79c4dad145711a001df41", "label": "S3", "evidence": {"intent_month": "2025-08", "out_month": "2025-08", "db_month": "2025-07"}}
+{"id": "73baf7abcc8862980fa32e4a", "label": "UNKNOWN", "evidence": {}}
+{"id": "a6818eb72480d7ecf85fcde1", "label": "OK", "evidence": {"intent_month": "2025-03", "out_month": "2025-03", "db_month": "2025-03"}}
+{"id": "aac6405b0ccb547dd4941470", "label": "UNKNOWN", "evidence": {}}
+{"id": "89044887b4f25d856d2374b5", "label": "UNKNOWN", "evidence": {}}
+{"id": "f02c459fdb5713966d1a897f", "label": "UNKNOWN", "evidence": {}}
+{"id": "63dbe1156b74b0df2a84b9fe", "label": "UNKNOWN", "evidence": {}}
+{"id": "dba436448763fa4dedafb242", "label": "UNKNOWN", "evidence": {}}
+{"id": "6af38740b02e293dcf5522cf", "label": "UNKNOWN", "evidence": {}}
+{"id": "77f6b9dd150e28e504e3732c", "label": "S2", "evidence": {"intent_month": "2025-08", "out_month": "2025-07", "db_month": "2025-07"}}
+{"id": "71255e0ed682ede30934309f", "label": "OK", "evidence": {"intent_month": "2025-08", "out_month": "2025-08", "db_month": "2025-08"}}
+{"id": "9eb5b93688c805d8feb521d3", "label": "S3", "evidence": {"intent_month": "2025-02", "out_month": "2025-02", "db_month": "2025-01"}}
+{"id": "b6170fc705b2bbbf0b897bf9", "label": "UNKNOWN", "evidence": {}}
+{"id": "8d4fda11bf42f21e3ba0f7c0", "label": "UNKNOWN", "evidence": {}}
+{"id": "7064adcfba657318ac8af5af", "label": "UNKNOWN", "evidence": {}}
+{"id": "aaded4b1674553d4febaab8c", "label": "UNKNOWN", "evidence": {}}
+{"id": "1b423c5374e2c0e8a5202404", "label": "S2", "evidence": {"intent_month": "2025-09", "out_month": "2025-08", "db_month": "2025-08"}}
+{"id": "369a7d9b42a7bbf80abbcfe4", "label": "OK", "evidence": {"intent_month": "2025-02", "out_month": "2025-02", "db_month": "2025-02"}}
+{"id": "c447cbf24e791d4da3899c07", "label": "UNKNOWN", "evidence": {}}
+{"id": "b37c37c7c908564bc2068874", "label": "S2", "evidence": {"intent_month": "2025-07", "out_month": "2025-06", "db_month": "2025-06"}}
+{"id": "96a2a7e97065a01100a37933", "label": "OK", "evidence": {"intent_month": "2025-04", "out_month": "2025-04", "db_month": "2025-04"}}
+{"id": "1d3261fe40b66364a7e85b72", "label": "S3", "evidence": {"intent_month": "2025-10", "out_month": "2025-10", "db_month": "2025-09"}}
+{"id": "3dc7c251b02a38ab6254aaaf", "label": "UNKNOWN", "evidence": {}}
+{"id": "bf8b4be0781913a2ee096b9d", "label": "UNKNOWN", "evidence": {}}
+{"id": "d4e3591d3c29cfc63d740ead", "label": "S2", "evidence": {"intent_month": "2025-10", "out_month": "2025-09", "db_month": "2025-09"}}
+{"id": "6e60856f3eac29d80e7b09d0", "label": "OK", "evidence": {"intent_month": "2025-07", "out_month": "2025-07", "db_month": "2025-07"}}
+{"id": "b76980c2dc1ae5fb7f7f019f", "label": "S3", "evidence": {"intent_month": "2025-10", "out_month": "2025-10", "db_month": "2025-09"}}
+{"id": "89e9ba7396b833231ada2847", "label": "UNKNOWN", "evidence": {}}
+{"id": "3c0a3c707a14211997744c86", "label": "UNKNOWN", "evidence": {}}
+{"id": "aefe8da4a2b65172bb6034c2", "label": "UNKNOWN", "evidence": {}}
+{"id": "c6fb0152201e48dd5e76867b", "label": "UNKNOWN", "evidence": {}}
+{"id": "95a39171d62fcf5c8bbaae15", "label": "UNKNOWN", "evidence": {}}
+{"id": "8dfd9bc9baba14aa3cdbcc96", "label": "UNKNOWN", "evidence": {}}
+{"id": "8a7c63831158b93a1347f67a", "label": "UNKNOWN", "evidence": {}}
+{"id": "0e2d35f10a49a805bd60782b", "label": "UNKNOWN", "evidence": {}}
+{"id": "66f9cc3a6d68de15e6bb7169", "label": "UNKNOWN", "evidence": {}}
+{"id": "db165ee153288410aa9c2f76", "label": "UNKNOWN", "evidence": {}}
+{"id": "937ced9e1779fa8e257cf044", "label": "UNKNOWN", "evidence": {}}
+{"id": "08e9f11f56cf2428b0c9b451", "label": "OK", "evidence": {"intent_month": "2025-09", "out_month": "2025-09", "db_month": "2025-09"}}
+{"id": "bd9dfd7b69865b1dd0ee6dee", "label": "S3", "evidence": {"intent_month": "2025-03", "out_month": "2025-03", "db_month": "2025-02"}}
+{"id": "f88b8d7c5b31b72b8aec668a", "label": "UNKNOWN", "evidence": {}}
+{"id": "9f1d731498d2b023bb310443", "label": "UNKNOWN", "evidence": {}}
+{"id": "471d1bc589523ef5f241c6f2", "label": "UNKNOWN", "evidence": {}}
+{"id": "47f8502b9b9f4b9037b4973a", "label": "UNKNOWN", "evidence": {}}
+{"id": "cc2069cb884b0f643c2cfbdb", "label": "UNKNOWN", "evidence": {}}
+{"id": "8495bbc4c75e51921288dd5c", "label": "UNKNOWN", "evidence": {}}
+{"id": "fa656ffb41cc2a303e81fce2", "label": "S3", "evidence": {"intent_month": "2025-09", "out_month": "2025-09", "db_month": "2025-08"}}
+{"id": "a80be7488eb372e3d1a4ba2a", "label": "OK", "evidence": {"intent_month": "2025-03", "out_month": "2025-03", "db_month": "2025-03"}}
+{"id": "3691fb0c8ec15045247e5d38", "label": "UNKNOWN", "evidence": {}}
+{"id": "5892ba054fc06469654fde9b", "label": "UNKNOWN", "evidence": {}}
+{"id": "da0633642dd9ff540a3331fa", "label": "OK", "evidence": {"intent_month": "2025-04", "out_month": "2025-04", "db_month": "2025-04"}}
+{"id": "000b366fb2b2f8ad2060b64d", "label": "UNKNOWN", "evidence": {}}
+{"id": "a1ea95cab866f6d6d231a1e9", "label": "OK", "evidence": {"intent_month": "2025-04", "out_month": "2025-04", "db_month": "2025-04"}}
+{"id": "c327968315f8a465dbfe007e", "label": "UNKNOWN", "evidence": {}}
+{"id": "1c1c97ebc991ca1df1855dd4", "label": "S3", "evidence": {"intent_month": "2025-07", "out_month": "2025-07", "db_month": "2025-06"}}
+{"id": "fa78f670ae559399bb13c472", "label": "UNKNOWN", "evidence": {}}
+{"id": "bf20b05e1b86b9f98393b30e", "label": "UNKNOWN", "evidence": {}}
+{"id": "8c304c9e7591c0e39fc47a90", "label": "UNKNOWN", "evidence": {}}
+{"id": "672bf57ad77c9cf18f87959b", "label": "UNKNOWN", "evidence": {}}
+{"id": "7ffe022b21270a34a1c1c3ae", "label": "UNKNOWN", "evidence": {}}
+{"id": "64fc29b32b30df83dfe2c1fb", "label": "UNKNOWN", "evidence": {}}
+{"id": "9963266057f9f600f2840223", "label": "UNKNOWN", "evidence": {}}
+{"id": "5400698fe643d42d741584c2", "label": "UNKNOWN", "evidence": {}}
+{"id": "4708c5365bf36c69970accd3", "label": "UNKNOWN", "evidence": {}}
+{"id": "85c10a3d20290a7f1f6b552a", "label": "S2", "evidence": {"intent_month": "2025-03", "out_month": "2025-02", "db_month": "2025-02"}}
+{"id": "df21f915abc3954b8f839303", "label": "UNKNOWN", "evidence": {}}
+{"id": "cc6cbc65d0bace1b6a4a2bb0", "label": "S3", "evidence": {"intent_month": "2025-08", "out_month": "2025-08", "db_month": "2025-07"}}
+{"id": "fca14847fca0c7d0ee6c8a56", "label": "UNKNOWN", "evidence": {}}
+{"id": "591bd6e56de73af6d1459324", "label": "UNKNOWN", "evidence": {}}
+{"id": "ffd2cecd82f862d9bcc3d7fc", "label": "UNKNOWN", "evidence": {}}
+{"id": "6fad5caafc2615a11cf54b18", "label": "UNKNOWN", "evidence": {}}
+{"id": "d3780922a7d5ab17cf538002", "label": "UNKNOWN", "evidence": {}}
+{"id": "2c75b34682534a8a29bbf7ea", "label": "UNKNOWN", "evidence": {}}
+{"id": "98c5ef130b08d7a8bba118df", "label": "UNKNOWN", "evidence": {}}
+{"id": "4fd7d8f649053e44c6d3d018", "label": "UNKNOWN", "evidence": {}}
+{"id": "a326bc13f031f009395d7dfa", "label": "UNKNOWN", "evidence": {}}
+{"id": "7ad1cf159c814cb1b8c66acb", "label": "S2", "evidence": {"intent_month": "2025-07", "out_month": "2025-06", "db_month": "2025-06"}}
+{"id": "83443f605f09fad2b923738c", "label": "UNKNOWN", "evidence": {}}
+{"id": "5b3d1d2a3d3d934f27c4ba86", "label": "S2", "evidence": {"intent_month": "2025-04", "out_month": "2025-03", "db_month": "2025-03"}}
+{"id": "3dac4fb396ce18c1b9c4aa83", "label": "UNKNOWN", "evidence": {}}
+{"id": "3557be42035d8372c5f7b26d", "label": "UNKNOWN", "evidence": {}}
+{"id": "ec61c883a3aee9969834ff76", "label": "S2", "evidence": {"intent_month": "2025-10", "out_month": "2025-09", "db_month": "2025-09"}}
+{"id": "aa73de211d99b4aca6241124", "label": "S3", "evidence": {"intent_month": "2025-03", "out_month": "2025-03", "db_month": "2025-02"}}
+{"id": "d9f13b2ffeca1b5a18d2249b", "label": "UNKNOWN", "evidence": {}}
+{"id": "945da610f3e184a8d7dda590", "label": "S2", "evidence": {"intent_month": "2025-08", "out_month": "2025-07", "db_month": "2025-07"}}
+{"id": "bda134b372ab688258e1f532", "label": "UNKNOWN", "evidence": {}}
+{"id": "b05d25333ee953b7e5692673", "label": "S3", "evidence": {"intent_month": "2025-09", "out_month": "2025-09", "db_month": "2025-08"}}
+{"id": "58a3c0cd0fc361084f28fe2c", "label": "UNKNOWN", "evidence": {}}
+{"id": "275a682d98477937b1c42038", "label": "UNKNOWN", "evidence": {}}
+{"id": "a56b3bbe151725514babe45d", "label": "OK", "evidence": {"intent_month": "2025-03", "out_month": "2025-03", "db_month": "2025-03"}}
+{"id": "20f231e48ab6d81bbc03945d", "label": "UNKNOWN", "evidence": {}}
+{"id": "c47b5073143899203cec012c", "label": "S3", "evidence": {"intent_month": "2025-06", "out_month": "2025-06", "db_month": "2025-05"}}
+{"id": "96535c2a4eb39343911417e0", "label": "UNKNOWN", "evidence": {}}
+{"id": "5d584906cffe63b894a48935", "label": "UNKNOWN", "evidence": {}}
+{"id": "65b5d72177c7835db1168963", "label": "OK", "evidence": {"intent_month": "2025-07", "out_month": "2025-07", "db_month": "2025-07"}}
+{"id": "94b734586ba77cc7cc4d447a", "label": "UNKNOWN", "evidence": {}}
+{"id": "8b9845fb06c084457bb6a9f4", "label": "UNKNOWN", "evidence": {}}
+{"id": "6018843d0603d3711b8f4e20", "label": "UNKNOWN", "evidence": {}}
+{"id": "1da7c8ef3c202ea2c3b571d6", "label": "UNKNOWN", "evidence": {}}
+{"id": "b4b2387ebc69a6d5b2c18ff0", "label": "UNKNOWN", "evidence": {}}
+{"id": "e0d883edfefca181fc485852", "label": "UNKNOWN", "evidence": {}}
+{"id": "519d4a09dbb8103ab2249e2b", "label": "UNKNOWN", "evidence": {}}
+{"id": "a173948a69eef9e36e206fcd", "label": "UNKNOWN", "evidence": {}}
+{"id": "b75a7f026cb01f1a74fa8a7c", "label": "S2", "evidence": {"intent_month": "2025-06", "out_month": "2025-05", "db_month": "2025-05"}}
+{"id": "d96e99de6c9cd1ae43c2c95b", "label": "UNKNOWN", "evidence": {}}
+{"id": "57c865263a9289b7e77e7483", "label": "S3", "evidence": {"intent_month": "2025-02", "out_month": "2025-02", "db_month": "2025-01"}}
+{"id": "8aee52dd1112081755feb172", "label": "UNKNOWN", "evidence": {}}
+{"id": "2657f5e3289e6f7576c0cc4e", "label": "UNKNOWN", "evidence": {}}
+{"id": "6282bee9ab32ee3f3427b59d", "label": "UNKNOWN", "evidence": {}}
+{"id": "36a46384c74dda2c99c352f9", "label": "UNKNOWN", "evidence": {}}
+{"id": "b8253e77b4915190a382d0c3", "label": "UNKNOWN", "evidence": {}}
+{"id": "10b2aa37ec3b809578677fa7", "label": "OK", "evidence": {"intent_month": "2025-06", "out_month": "2025-06", "db_month": "2025-06"}}
+{"id": "e93d1007a775198cfe076cf1", "label": "UNKNOWN", "evidence": {}}
+{"id": "744c576ecce770c36588565f", "label": "UNKNOWN", "evidence": {}}
+{"id": "cfdcc335af9bef07d7774859", "label": "UNKNOWN", "evidence": {}}
+{"id": "ed9584ee6349f52c4ec064dc", "label": "UNKNOWN", "evidence": {}}
+{"id": "0a85aa4c58762d9b529aef88", "label": "S2", "evidence": {"intent_month": "2025-10", "out_month": "2025-09", "db_month": "2025-09"}}
+{"id": "35771b34a423f0d320699edc", "label": "UNKNOWN", "evidence": {}}
+{"id": "a9c5e804a7feb601f3a4ae00", "label": "UNKNOWN", "evidence": {}}
+{"id": "6354f8d0e2d9530772efa346", "label": "UNKNOWN", "evidence": {}}
+{"id": "01fc550d26baa334e764c488", "label": "UNKNOWN", "evidence": {}}
+{"id": "fb66eb60725c478b13ff6229", "label": "UNKNOWN", "evidence": {}}
+{"id": "bd17e6eda31d509f903d46a7", "label": "OK", "evidence": {"intent_month": "2025-08", "out_month": "2025-08", "db_month": "2025-08"}}
+{"id": "29320b23e636308c405b3eb0", "label": "UNKNOWN", "evidence": {}}
+{"id": "b13e054b4bdf86390fa7b90d", "label": "UNKNOWN", "evidence": {}}
+{"id": "23a5775f70356265b7811c1b", "label": "S2", "evidence": {"intent_month": "2025-06", "out_month": "2025-05", "db_month": "2025-05"}}
+{"id": "88e32b90a97c4b8cffa73e35", "label": "UNKNOWN", "evidence": {}}
+{"id": "01436425ae1e24ae0a41eeae", "label": "UNKNOWN", "evidence": {}}
+{"id": "b64a547b07e73b24c1ecec59", "label": "UNKNOWN", "evidence": {}}
+{"id": "b3d81eba4c46c3ab99643eee", "label": "UNKNOWN", "evidence": {}}
+{"id": "80130e0bdcb2a8fd8cdc6c84", "label": "S3", "evidence": {"intent_month": "2025-06", "out_month": "2025-06", "db_month": "2025-05"}}
+{"id": "ec5547728f7ee505245c0cdb", "label": "OK", "evidence": {"intent_month": "2025-07", "out_month": "2025-07", "db_month": "2025-07"}}
+{"id": "b5af5a89a7cf45923f9156e1", "label": "UNKNOWN", "evidence": {}}
+{"id": "fa7848044ce3163d73cd8e83", "label": "UNKNOWN", "evidence": {}}
+{"id": "686d4e12621897ffa295994e", "label": "UNKNOWN", "evidence": {}}
+{"id": "d6fb8dfa0688e55afcfbe8a2", "label": "S3", "evidence": {"intent_month": "2025-04", "out_month": "2025-04", "db_month": "2025-03"}}
+{"id": "26ec146277636d2e39a09863", "label": "UNKNOWN", "evidence": {}}
+{"id": "a9dc4e610f34192b28ff37cb", "label": "S2", "evidence": {"intent_month": "2025-02", "out_month": "2025-01", "db_month": "2025-01"}}
+{"id": "1ef92f510315f18fb8679824", "label": "S2", "evidence": {"intent_month": "2025-07", "out_month": "2025-06", "db_month": "2025-06"}}
